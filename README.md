@@ -93,7 +93,7 @@ In June 2025, QuickBite faced a serious business crisis due to:
 | Cancellation Rate | 3.75% | 6.05% | +2.3% | **+61%** |
 | Active Restaurants | 15K | 1K | -14K | **-93%** |
 
-👉 **Bottom line:** Severe operational and trust breakdown.
+👉 **:** Severe operational and trust breakdown.
 
 ---
 
@@ -243,7 +243,7 @@ Implement automated alerts for:
 - Cancellation spike  
 - Restaurant churn  
 
-🔥 **Portfolio Value:** Demonstrates senior-level thinking.
+
 
 ---
 
