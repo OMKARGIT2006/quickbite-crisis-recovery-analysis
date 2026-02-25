@@ -253,11 +253,12 @@ Implement automated alerts for:
 
 ---
 
-# 📌 Author
+<h2><a class="anchor" id="author--contact"></a> 📌 Author & Contact</h2>
 
 **Omkar Kotkar**  
-🎓 BSc Computer Science — Mumbai University  
-📊 Aspiring Data Analyst | Power BI Developer  
+Data Analyst  
+📧 Email: kotkaromkar988@gmail.com   
+🔗 [LinkedIn](https://www.linkedin.com/in/omkar-kotkar/)  
 
 ---
 
