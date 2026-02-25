@@ -247,6 +247,88 @@ Implement automated alerts for:
 
 ---
 
+# 📊 Dashboard Structure
+
+---
+
+## 🏠 Page 1: Home
+
+The Home page provides quick navigation to all major analysis sections, allowing users to move seamlessly across the dashboard.
+
+<img width="1406" height="722" alt="image" src="https://github.com/user-attachments/assets/dcbfc2ad-cfe0-48b3-947a-3b1a66199a40" />
+
+
+
+---
+
+## 📈 Page 2: Executive Summary
+
+This page delivers a high-level snapshot of business performance during the crisis period.
+
+### 🔹 Key Elements
+
+- KPI cards: Total Orders, Revenue, Rating, Cancellation Rate  
+- Highlighted performance metrics  
+- Monthly revenue trend  
+- Order volume comparison (Pre-Crisis vs Crisis)  
+- Top affected cities  
+- Revenue breakdown by component  
+
+<img width="1440" height="805" alt="page1" src="https://github.com/user-attachments/assets/5429de17-66a9-4558-b8e1-8fd8c8d59779" />
+
+
+---
+
+## 👥 Page 3: Customer Impact Analysis
+
+Focuses on how different customer segments were affected during the crisis.
+
+### 🔹 Key Elements
+
+- Customer segmentation donut  
+- City-wise customer distribution  
+- Customer status breakdown (New, Active, Churned)  
+- High-value customer impact analysis  
+
+<img width="1443" height="805" alt="page2" src="https://github.com/user-attachments/assets/3b837b28-05a7-4ef2-9a30-23f98018845b" />
+
+---
+
+## 🍽️ Page 4: Restaurant Partnership Analysis
+
+Analyzes the health and performance of the restaurant ecosystem.
+
+### 🔹 Key Elements
+
+- Partner count by city  
+- Total cloud kitchens  
+- Cuisine-wise order comparison  
+- Active restaurants trend  
+
+<img width="1477" height="802" alt="page3" src="https://github.com/user-attachments/assets/63c37026-3cd8-4675-94c6-adab0927fec6" />
+
+
+---
+
+## 💬 Page 5: Customer Sentiment Analysis
+
+Examines customer feedback trends to understand trust and satisfaction levels.
+
+### 🔹 Key Elements
+
+- Rating trend over time  
+- Review volume timeline  
+- Negative review word cloud  
+- Top negative keywords and themes  
+
+<img width="1567" height="802" alt="page4" src="https://github.com/user-attachments/assets/e4719ac4-baff-469c-814f-a94b6545debf" />
+
+<img width="1497" height="817" alt="page5" src="https://github.com/user-attachments/assets/8cabf932-33ac-4bbe-a93e-960792d96ab4" />
+
+---
+
+
+
 # 🏆 Executive Insight
 
 > The crisis was driven primarily by operational breakdown rather than demand loss, indicating strong recovery potential if delivery reliability and partner quality are rapidly stabilized.
