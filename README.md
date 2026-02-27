@@ -305,7 +305,7 @@ Analyzes the health and performance of the restaurant ecosystem.
 - Cuisine-wise order comparison  
 - Active restaurants trend  
 
-<img width="1477" height="802" alt="page3" src="https://github.com/user-attachments/assets/63c37026-3cd8-4675-94c6-adab0927fec6" />
+<img width="1567" height="802" alt="page4" src="https://github.com/user-attachments/assets/e4719ac4-baff-469c-814f-a94b6545debf" />
 
 
 ---
@@ -321,7 +321,6 @@ Examines customer feedback trends to understand trust and satisfaction levels.
 - Negative review word cloud  
 - Top negative keywords and themes  
 
-<img width="1567" height="802" alt="page4" src="https://github.com/user-attachments/assets/e4719ac4-baff-469c-814f-a94b6545debf" />
 
 <img width="1497" height="817" alt="page5" src="https://github.com/user-attachments/assets/8cabf932-33ac-4bbe-a93e-960792d96ab4" />
 
