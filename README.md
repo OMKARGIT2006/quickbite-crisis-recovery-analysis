@@ -327,6 +327,10 @@ Examines customer feedback trends to understand trust and satisfaction levels.
 ---
 
 
+## 📊 Live Power BI Dashboard
+
+View here: https://app.powerbi.com/view?r=eyJrIjoiY2EwMDNiMGItYjUzZC00ZmRlLWI2NzctMmU5NjdjMzNkMDJhIiwidCI6IjEyYzY2ZDM3LTcxNjUtNDcxYi04ODhkLTc4OWVjZDI5YTBmOSJ9
+
 
 # 🏆 Executive Insight
 
